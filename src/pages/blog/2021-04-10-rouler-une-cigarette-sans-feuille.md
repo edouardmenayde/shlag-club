@@ -5,6 +5,8 @@ date: 2021-04-10T13:51:30.323Z
 description: 22h plus de feuille ? Hortense a une solution pour vous.
 featuredpost: true
 featuredimage: /img/chewing_gum_stick.jpg
+tags:
+  - basiques
 ---
 Vous voyez le papier aluminium de vos paquet de chewing gum ?
 
