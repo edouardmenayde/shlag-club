@@ -8,4 +8,8 @@ featuredimage: /img/chewing_gum_stick.jpg
 ---
 Vous voyez le papier aluminium de vos paquet de chewing gum ?
 
+
+
+![](/img/chewing_gum_stick.jpg)
+
 Il vous suffit de séparer la feuille qui est collé dessus et vous voilà muni d'une superbe feuille pour rouler votre cigarette d'urgence.
