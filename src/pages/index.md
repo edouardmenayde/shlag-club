@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Réveiller le shlag qui est en vous
-image: /img/home-jumbotron.jpg
+image: /img/chewing_gum_stick.jpg
 heading: Des tutos pour vous aidez dans les moments difficiles
 subheading: Les meilleurs tutos pour ne jamais vous retrouvez dans un état normal
 mainpitch:
