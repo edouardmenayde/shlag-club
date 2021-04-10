@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Réveiller le shlag qui est en vous
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Des tutos pour vous aidez dans les moments difficiles
+subheading: Les meilleurs tutos pour ne jamais vous retrouvez dans un état normal
 mainpitch:
-  title: Why Kaldi
+  title: Pourquoi Shlag.club ?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Shlag.club ce n'est pas juste un site, c'est une mentalité qui transcende
+    votre être. Être shlag ou ne pas l'être, telle est la question ?
+description: La shlagitude demande des compétences particulières, des
+  compétences très particulières que notre présidente, Hortense, a developpé le
+  long carrière. Elle a décidé de vous les partager, bien entendu gratuitement
+  tel que la shlagitude l'impose.
 intro:
   blurbs:
     - image: /img/coffee.png
