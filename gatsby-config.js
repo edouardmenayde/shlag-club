@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'shlag.club : assumer le shlag en vous',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'La shlagitude demande des compétences particulières, des compétences très particulières que notre présidente, Hortense, a developpé le long carrière. Elle a décidé de vous les partager, bien entendu gratuitement tel que la shlagitude l\'impose.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
