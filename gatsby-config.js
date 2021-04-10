@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'shlag.club : assumer le shlag en vous',
+    title: 'shlag.club : assumer la·le shlag en vous',
     description:
-      'La shlagitude demande des compétences particulières, des compétences très particulières que notre présidente, Hortense, a developpé le long carrière. Elle a décidé de vous les partager, bien entendu gratuitement tel que la shlagitude l\'impose.',
+      'La shlagitude demande des compétences particulières, des compétences très particulières que notre présidente, Hortense, a developpé au cours d\'une longue carrière. Elle a décidé de vous les partager, bien entendu gratuitement tel que la shlagitude l\'impose.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
