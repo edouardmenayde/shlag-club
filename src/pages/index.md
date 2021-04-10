@@ -10,9 +10,9 @@ mainpitch:
     Shlag.club ce n'est pas juste un site, c'est une mentalité qui transcende
     votre être. Être shlag ou ne pas l'être, telle est la question ?
 description: La shlagitude demande des compétences particulières, des
-  compétences très particulières que notre présidente, Hortense, a developpé le
-  long carrière. Elle a décidé de vous les partager, bien entendu gratuitement
-  tel que la shlagitude l'impose.
+  compétences très particulières que notre présidente, Hortense, a developpé au
+  cours d'une longue carrière. Elle a décidé de vous les partager, bien entendu
+  gratuitement tel que la shlagitude l'impose.
 intro:
   blurbs:
     - image: /img/coffee.png
