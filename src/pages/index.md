@@ -1,18 +1,18 @@
 ---
 templateKey: index-page
-title: Réveiller la·le shlag qui est en vous
+title: Réveillez la·le shlag qui est en vous
 image: /img/chewing_gum_stick.jpg
-heading: Des tutos pour vous aidez dans les moments difficiles
-subheading: Les meilleurs tutos pour ne jamais vous retrouvez dans un état normal
+heading: Des tutos pour vous aider dans les moments difficiles
+subheading: Les meilleurs tutos pour ne jamais vous retrouver dans un état normal
 mainpitch:
   title: Pourquoi Shlag.club ?
   description: >
     Shlag.club ce n'est pas juste un site, c'est une mentalité qui transcende
     votre être. Être shlag ou ne pas l'être, telle est la question ?
 description: La shlagitude demande des compétences particulières, des
-  compétences très particulières que notre présidente, Hortense, a developpé au
-  cours d'une longue carrière. Elle a décidé de vous les partager, bien entendu
-  gratuitement tel que la shlagitude l'impose.
+  compétences très particulières que notre présidente, Hortense, a developpées
+  au cours d'une longue carrière. Elle a décidé de vous les partager, bien
+  entendu gratuitement tel que la shlagitude l'impose.
 intro:
   blurbs: []
   heading: What we offer
